@@ -1,4 +1,4 @@
-## vim-slang: vim syntax highlighting for (Slang)[https://github.com/shader-slang/slang]
+## vim-slang: vim syntax highlighting for [Slang](https://github.com/shader-slang/slang)
 
 This repository includes vim files to enable syntax highlighting for Slang Shading Language.
 
